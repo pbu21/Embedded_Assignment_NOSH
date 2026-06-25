@@ -4,7 +4,7 @@
 A demonstration of the STM32 LED blinking project is available below.
 
 ▶️ **Demo Video:**
-- `Q1_Demo.mp4`
+-https://photos.app.goo.gl/Ykypqx2e58z7RXa37
 
 ### Demonstration
 
@@ -22,7 +22,7 @@ The video demonstrates:
 A demonstration of the Sensor Data Simulation project is available below.
 
 ▶️ **Demo Video:**
-- `Q2_Demo.mp4` 
+- https://photos.app.goo.gl/SdpMC4RbVSFs5fVg8 
 
 ### Demonstration
 
