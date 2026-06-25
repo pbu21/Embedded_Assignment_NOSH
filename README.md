@@ -7,16 +7,17 @@ This repository contains the solutions for the Embedded Firmware Assignment comp
 ```
 Embedded_Assignment_NOSH/
 │
+NOSH/
 ├── Q1-BLINK_LED/
 │   ├── Core/
 │   ├── Drivers/
 │   ├── MDK-ARM/
 │   ├── NOSH.ioc
-│   └── README.md
+│   
 │
 ├── Q2-C_PROGM/
 │   ├── q2.c
-│   └── README.md
+│   
 │
 └── README.md
 ```
