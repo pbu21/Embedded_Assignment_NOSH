@@ -84,10 +84,9 @@ Each press of the push button changes the LED operating mode.
 ## Result Video
 
 📹 **Demo Video**
-
 https://photos.app.goo.gl/Ykypqx2e58z7RXa37
-
 ---------------------------------------------------------------------------------------------------------------------------------------
+
 # Question 2 - C Programming
 
 ## Description
