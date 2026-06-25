@@ -113,6 +113,12 @@ The solution is written in ANSI C and can be compiled using GCC or any standard 
 - Program executes in console/terminal.
 - No external libraries are required.
 
+## Run the Program Online
+
+You can run the C program directly in your browser using an online C compiler.
+
+| Platform | Link |
+| Programiz | (https://www.programiz.com/online-compiler/9CgHQh8fnpLha) |
 
 ## Result Video
 
